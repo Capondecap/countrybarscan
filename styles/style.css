@@ -1,3 +1,4 @@
+/* --- Base Styling --- */
 body {
   font-family: Arial, sans-serif;
   text-align: center;
@@ -41,7 +42,23 @@ footer {
   color: #666;
 }
 
-#flag {
-  border: 1px solid #ddd;
-  border-radius: 5px;
+/* --- Creator Badge --- */
+.creator-badge {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  background: #007bff;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-family: 'Dancing Script', cursive;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  z-index: 999;
+  cursor: default;
+  transition: transform 0.2s ease;
+}
+
+.creator-badge:hover {
+  transform: scale(1.05);
 }
