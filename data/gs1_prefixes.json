@@ -1,0 +1,498 @@
+[
+    {
+        "prefix": "000–019",
+        "country": "United States"
+    },
+    {
+        "prefix": "020–029",
+        "country": "United States"
+    },
+    {
+        "prefix": "030–039",
+        "country": "United States"
+    },
+    {
+        "prefix": "040–049",
+        "country": "United States"
+    },
+    {
+        "prefix": "050–059",
+        "country": "United States"
+    },
+    {
+        "prefix": "060–099",
+        "country": "United States"
+    },
+    {
+        "prefix": "100–139",
+        "country": "United States"
+    },
+    {
+        "prefix": "200–299",
+        "country": "United States"
+    },
+    {
+        "prefix": "300–379",
+        "country": "France and Monaco"
+    },
+    {
+        "prefix": "380",
+        "country": "Bulgaria"
+    },
+    {
+        "prefix": "383",
+        "country": "Slovenia"
+    },
+    {
+        "prefix": "385",
+        "country": "Croatia"
+    },
+    {
+        "prefix": "387",
+        "country": "Bosnia and Herzegovina"
+    },
+    {
+        "prefix": "389",
+        "country": "Montenegro"
+    },
+    {
+        "prefix": "400–440",
+        "country": "Germany"
+    },
+    {
+        "prefix": "450–459",
+        "country": "Japan"
+    },
+    {
+        "prefix": "460–469",
+        "country": "Russia"
+    },
+    {
+        "prefix": "470",
+        "country": "Kyrgyzstan"
+    },
+    {
+        "prefix": "471",
+        "country": "Taiwan"
+    },
+    {
+        "prefix": "474",
+        "country": "Estonia"
+    },
+    {
+        "prefix": "475",
+        "country": "Latvia"
+    },
+    {
+        "prefix": "476",
+        "country": "Azerbaijan"
+    },
+    {
+        "prefix": "477",
+        "country": "Lithuania"
+    },
+    {
+        "prefix": "478",
+        "country": "Uzbekistan"
+    },
+    {
+        "prefix": "479",
+        "country": "Sri Lanka"
+    },
+    {
+        "prefix": "480",
+        "country": "Philippines"
+    },
+    {
+        "prefix": "481",
+        "country": "Belarus"
+    },
+    {
+        "prefix": "482",
+        "country": "Ukraine"
+    },
+    {
+        "prefix": "483",
+        "country": "Turkmenistan"
+    },
+    {
+        "prefix": "484",
+        "country": "Moldova"
+    },
+    {
+        "prefix": "485",
+        "country": "Armenia"
+    },
+    {
+        "prefix": "486",
+        "country": "Georgia"
+    },
+    {
+        "prefix": "487",
+        "country": "Kazakhstan"
+    },
+    {
+        "prefix": "488",
+        "country": "Tajikistan"
+    },
+    {
+        "prefix": "489",
+        "country": "Hong Kong"
+    },
+    {
+        "prefix": "490–499",
+        "country": "Japan"
+    },
+    {
+        "prefix": "500–509",
+        "country": "United Kingdom"
+    },
+    {
+        "prefix": "520–521",
+        "country": "Greece"
+    },
+    {
+        "prefix": "528",
+        "country": "Lebanon"
+    },
+    {
+        "prefix": "529",
+        "country": "Cyprus"
+    },
+    {
+        "prefix": "530",
+        "country": "Albania"
+    },
+    {
+        "prefix": "531",
+        "country": "North Macedonia"
+    },
+    {
+        "prefix": "535",
+        "country": "Malta"
+    },
+    {
+        "prefix": "539",
+        "country": "Ireland"
+    },
+    {
+        "prefix": "540–549",
+        "country": "Belgium and Luxembourg"
+    },
+    {
+        "prefix": "560",
+        "country": "Portugal"
+    },
+    {
+        "prefix": "569",
+        "country": "Iceland"
+    },
+    {
+        "prefix": "570–579",
+        "country": "Denmark"
+    },
+    {
+        "prefix": "590",
+        "country": "Poland"
+    },
+    {
+        "prefix": "594",
+        "country": "Romania"
+    },
+    {
+        "prefix": "599",
+        "country": "Hungary"
+    },
+    {
+        "prefix": "600–601",
+        "country": "South Africa"
+    },
+    {
+        "prefix": "603",
+        "country": "Ghana"
+    },
+    {
+        "prefix": "604",
+        "country": "Senegal"
+    },
+    {
+        "prefix": "608",
+        "country": "Bahrain"
+    },
+    {
+        "prefix": "609",
+        "country": "Mauritius"
+    },
+    {
+        "prefix": "611",
+        "country": "Morocco"
+    },
+    {
+        "prefix": "613",
+        "country": "Algeria"
+    },
+    {
+        "prefix": "615",
+        "country": "Nigeria"
+    },
+    {
+        "prefix": "616",
+        "country": "Kenya"
+    },
+    {
+        "prefix": "618",
+        "country": "Ivory Coast"
+    },
+    {
+        "prefix": "619",
+        "country": "Tunisia"
+    },
+    {
+        "prefix": "621",
+        "country": "Syria"
+    },
+    {
+        "prefix": "622",
+        "country": "Egypt"
+    },
+    {
+        "prefix": "623",
+        "country": "Brunei"
+    },
+    {
+        "prefix": "624",
+        "country": "Libya"
+    },
+    {
+        "prefix": "625",
+        "country": "Jordan"
+    },
+    {
+        "prefix": "626",
+        "country": "Iran"
+    },
+    {
+        "prefix": "627",
+        "country": "Kuwait"
+    },
+    {
+        "prefix": "628",
+        "country": "Saudi Arabia"
+    },
+    {
+        "prefix": "629",
+        "country": "United Arab Emirates"
+    },
+    {
+        "prefix": "640–649",
+        "country": "Finland"
+    },
+    {
+        "prefix": "690–699",
+        "country": "China"
+    },
+    {
+        "prefix": "700–709",
+        "country": "Norway"
+    },
+    {
+        "prefix": "729",
+        "country": "Israel"
+    },
+    {
+        "prefix": "730–739",
+        "country": "Sweden"
+    },
+    {
+        "prefix": "740",
+        "country": "Guatemala"
+    },
+    {
+        "prefix": "741",
+        "country": "El Salvador"
+    },
+    {
+        "prefix": "742",
+        "country": "Honduras"
+    },
+    {
+        "prefix": "743",
+        "country": "Nicaragua"
+    },
+    {
+        "prefix": "744",
+        "country": "Costa Rica"
+    },
+    {
+        "prefix": "745",
+        "country": "Panama"
+    },
+    {
+        "prefix": "746",
+        "country": "Dominican Republic"
+    },
+    {
+        "prefix": "750",
+        "country": "Mexico"
+    },
+    {
+        "prefix": "754–755",
+        "country": "Canada"
+    },
+    {
+        "prefix": "759",
+        "country": "Venezuela"
+    },
+    {
+        "prefix": "760–769",
+        "country": "Switzerland and Liechtenstein"
+    },
+    {
+        "prefix": "770",
+        "country": "Colombia"
+    },
+    {
+        "prefix": "773",
+        "country": "Uruguay"
+    },
+    {
+        "prefix": "775",
+        "country": "Peru"
+    },
+    {
+        "prefix": "777",
+        "country": "Bolivia"
+    },
+    {
+        "prefix": "779",
+        "country": "Argentina"
+    },
+    {
+        "prefix": "780",
+        "country": "Chile"
+    },
+    {
+        "prefix": "784",
+        "country": "Paraguay"
+    },
+    {
+        "prefix": "786",
+        "country": "Ecuador"
+    },
+    {
+        "prefix": "789–790",
+        "country": "Brazil"
+    },
+    {
+        "prefix": "800–839",
+        "country": "Italy and San Marino"
+    },
+    {
+        "prefix": "840–849",
+        "country": "Spain and Andorra"
+    },
+    {
+        "prefix": "850",
+        "country": "Cuba"
+    },
+    {
+        "prefix": "858",
+        "country": "Slovakia"
+    },
+    {
+        "prefix": "859",
+        "country": "Czech Republic"
+    },
+    {
+        "prefix": "860",
+        "country": "Serbia and Montenegro"
+    },
+    {
+        "prefix": "865",
+        "country": "Mongolia"
+    },
+    {
+        "prefix": "867",
+        "country": "North Korea"
+    },
+    {
+        "prefix": "869",
+        "country": "Turkey"
+    },
+    {
+        "prefix": "870–879",
+        "country": "Netherlands"
+    },
+    {
+        "prefix": "880",
+        "country": "South Korea"
+    },
+    {
+        "prefix": "884",
+        "country": "Cambodia"
+    },
+    {
+        "prefix": "885",
+        "country": "Thailand"
+    },
+    {
+        "prefix": "888",
+        "country": "Singapore"
+    },
+    {
+        "prefix": "890",
+        "country": "India"
+    },
+    {
+        "prefix": "893",
+        "country": "Vietnam"
+    },
+    {
+        "prefix": "899",
+        "country": "Indonesia"
+    },
+    {
+        "prefix": "900–919",
+        "country": "Austria"
+    },
+    {
+        "prefix": "930–939",
+        "country": "Australia"
+    },
+    {
+        "prefix": "940–949",
+        "country": "New Zealand"
+    },
+    {
+        "prefix": "950",
+        "country": "GS1 Global Office"
+    },
+    {
+        "prefix": "955",
+        "country": "Malaysia"
+    },
+    {
+        "prefix": "958",
+        "country": "Macau"
+    },
+    {
+        "prefix": "977",
+        "country": "Serial publications (ISSN)"
+    },
+    {
+        "prefix": "978–979",
+        "country": "Bookland (ISBN)"
+    },
+    {
+        "prefix": "980",
+        "country": "Refund receipts"
+    },
+    {
+        "prefix": "981–983",
+        "country": "Coupons and means of payment"
+    },
+    {
+        "prefix": "990–999",
+        "country": "Coupons"
+    }
+]
